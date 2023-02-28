@@ -31,10 +31,10 @@ if not ret:
     exit()
 
 # Save the captured frame to a file
-cv2.imwrite("C:\\Users\\K017-Labor\\Desktop\\SetupFolder\\Screenshots\\A.jpg", frame)
+cv2.imwrite("C:\\Users\\Name\\Desktop\\SetupFolder\\Screenshots\\A.jpg", frame)
 
-source = "C:\\Users\\K017-Labor\\Desktop\\SetupFolder\\Screenshots\\A.jpg"
-destination = "C:\\Users\\K017-Labor\\Desktop\\SetupFolder\\Saved_Pics\\"
+source = "C:\\Users\\Name\\Desktop\\SetupFolder\\Screenshots\\A.jpg"
+destination = "C:\\Users\\Name\\Desktop\\SetupFolder\\Saved_Pics\\"
 new_file_name = "image_" + str(counter) + ".jpg"
 
 counter += 1
