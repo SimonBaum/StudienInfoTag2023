@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\Name\Desktop\SetupFolder\instructionSetA.py
+python C:\Users\K017-Labor\Desktop\SetupFolder\instructionSetA.py
 pause
