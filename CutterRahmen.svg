@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="CutterRahmen.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="-35.087727"
+     inkscape:cy="477.95174"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="425"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid999" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="59.009398"
+       y="588.75286"
+       width="339.30404"
+       height="69.738379"
+       id="rect1059" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect234"
+       width="110"
+       height="175"
+       x="0.5"
+       y="0.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect950"
+       width="100"
+       height="147"
+       x="5.5"
+       y="5.5" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1057"
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:3.77952756;stroke-dasharray:none;white-space:pre;shape-inside:url(#rect1059)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.75084px;letter-spacing:1.05648px;fill:none;stroke:#fe0000;stroke-width:1.49632;stroke-dasharray:none;stroke-opacity:1"
+       x="151.50371"
+       y="120.23734"
+       id="text1065"
+       transform="scale(0.70931555,1.4098098)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.6132px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;direction:ltr;text-anchor:end;stroke:#ff0000;stroke-width:1.49632;stroke-opacity:1"
+         x="152.56018"
+         y="120.23734"
+         id="tspan1125"><tspan
+   dy="0"
+   id="tspan1337"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.6132px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;direction:ltr;text-anchor:end;stroke:#ff0000;stroke-width:1.49632;stroke-opacity:1">STUDIENINFO</tspan>TAG '23</tspan></text>
+  </g>
+</svg>
