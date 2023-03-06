@@ -34,12 +34,13 @@ while True:
     # Check if the spacebar was pressed
     if key == ord(" "):
         # Save the captured frame to a file
-        cv2.imwrite("C:\\Users\\K017-Labor\\Desktop\\SetupFolder\\Screenshots\\A.jpg", frame)
+        cv2.imwrite("C:\\Users\\K017-Labor\\Desktop\\SetupFolder\\Screenshots\\A.png", frame)
 
-        os.system(r"magick C:\Users\K017-Labor\Desktop\SetupFolder\Screenshots\A.jpg -crop 732x1076+594+0 C:\Users\K017-Labor\Desktop\SetupFolder\Screenshots\A.jpg")
-        os.system(r"magick C:\Users\K017-Labor\Desktop\SetupFolder\Screenshots\A.jpg -resize 50% C:\Users\K017-Labor\Desktop\SetupFolder\Saved_Pics\A.jpg")
+        os.system(r"magick C:\Users\K017-Labor\Desktop\SetupFolder\Screenshots\A.png -crop 732x1076+420+0 C:\Users\K017-Labor\Desktop\SetupFolder\Screenshots\A.jpg")
+        #594
+        os.system(r"magick C:\Users\K017-Labor\Desktop\SetupFolder\Screenshots\A.png -resize 50% C:\Users\K017-Labor\Desktop\SetupFolder\Screenshots\A.jpg")
         break
 
 # Release the webcam and close the window
 cap.release()
-cv2.destroyAllWindows() 
+cv2.destroyAllWindows()
