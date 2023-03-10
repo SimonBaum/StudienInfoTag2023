@@ -9,7 +9,7 @@ counter = random.randint(1000, 9999)
 os.system(r"magick C:\Users\K017-Labor\Desktop\SetupFolder\Edited_Pics\A.png -resize 200% C:\Users\K017-Labor\Desktop\SetupFolder\Edited_Pics\A.png")
 
 # Adding the QR-Code on the top left of the picture
-os.system(r"magick composite -gravity NorthWest C:\Users\K017-Labor\Desktop\SetupFolder\Edited_Pics\qrTestVerySmall.png C:\Users\K017-Labor\Desktop\SetupFolder\Edited_Pics\A.png C:\Users\K017-Labor\Desktop\Final.png")
+os.system(r"magick composite -gravity NorthWest -geometry +15+15 C:\Users\K017-Labor\Desktop\SetupFolder\Edited_Pics\qrTestVerySmall.png C:\Users\K017-Labor\Desktop\SetupFolder\Edited_Pics\A.png C:\Users\K017-Labor\Desktop\Final.png")
 
 
 #source = "C:\\Users\\K017-Labor\\Desktop\\Final.png"
